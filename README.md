@@ -1,11 +1,10 @@
 # Heartbeat_data_analysis
-Heartbeat_data_analysis after reading ECG data
-Heartbeat Data Analysis
-Tools Used
-
+## Heartbeat_data_analysis after reading ECG data
+## Heartbeat Data Analysis
+### Tools Used
 Scipy, Numpy, Seaborn, Matplotlib, Sklearn, Pandas, 
 
-Data Import
+### Data Import
 I have used A00003.mat file for my analysis, it’s a dictionary which have values for heartbeat from ECG. Data is described as 
 count	18000
 mean	-6.78917
@@ -26,7 +25,7 @@ Figure 2
 
  In these graphs we can clearly see the outliers and bad values which be eliminated from the data sets.
 
-First method: -
+## First method: -
 Smoothing technique
 ![alt text](https://github.com/chaets/Heartbeat_data_analysis/blob/master/f3.png) 
 Figure 3
